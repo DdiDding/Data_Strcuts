@@ -1,7 +1,6 @@
 #pragma once
 #include <iostream>
 #include <list>
-#include <assert.h>
 using namespace std;
 
 template<typename T>

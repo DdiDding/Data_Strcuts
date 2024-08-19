@@ -24,23 +24,7 @@
 
 int main()
 {
-	MyList<int> list;
-	list.push_back(3);
-	list.push_back(4);
-	list.Print();
-
-	list.push_front(2);
-	list.push_front(1);
-	list.Print();
-
-	/*list.pop_back();
-	list.Print();
-
-	list.pop_front();
-	list.Print();*/
-
-	list.erase(1);
-	list.Print();
+	
 
 	//cout << list.back()->data<<endl;
 
